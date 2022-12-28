@@ -47,4 +47,3 @@ Check this repo, I used their themes in my terminal.
 ![Bash It](https://github.com/Bash-it/bash-it)
 
 You can find all installation and configuration steps in there documentation too.
-![Documentation](https://bash-it.readthedocs.io/en/latest/)
