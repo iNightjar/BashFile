@@ -1,13 +1,12 @@
-# Bashrc File and Settings 👾👽
-
->> bash file settings and configurations i use with linux 🐧
-
+# Bash File Settings And Configurations I Use With Linux 🐧👾👽
 
 ## ScreenShots of Bash Terminal
+
 ![screenshot](https://github.com/iNightjar/BashFile/blob/master/screenshots/screenshot1.png)
 ![screenshot](https://github.com/iNightjar/BashFile/blob/master/screenshots//screenshot2.png)
 ![screenshot](https://github.com/iNightjar/BashFile/blob/master/screenshots//screenshot3.png)
 ![screenshot](https://github.com/iNightjar/BashFile/blob/master/screenshots//screenshot4.png)
+
 ## Getting started
 
 ### Setting the enviroment
@@ -19,7 +18,7 @@ cd ~
 git clone https://github.com/iNightjar/BashFile.git
 ```
 
-### backup your default bash configurations
+### Backup your default bash configurations
 
 let's make a backup from the default files in case something goes wrong
 
@@ -29,7 +28,7 @@ mkdir bashFilesBackup
 echo ~/bashFilesBackup/ | xargs -n 1 cp -v ~/.bash*
 ```
 
-### replace default .bash files
+### Replace default .bash files
 
 you can replace your default linux .bash files with mine
 
@@ -38,15 +37,14 @@ cd ~/BashFile/
 echo ~/ | xargs -n 1 cp -v /.bash*
 ```
 
-### modify Pathes inside .bashrc file
+### Modify absolute inside .bashrc file
 
-modify the absoulte pathes i used inside the .bashrc file according to your preffered settings
-
+modify the absolute pathes used inside the .bashrc file according to your preffered settings
 
 ## Bash Theme I Used
 
-Check this repo, I used their themes in my terminal. 
+Check this repo, I used their themes in my terminal.
 ![Bash It](https://github.com/Bash-it/bash-it)
 
-You can find all installation and configuration steps in there documentation too
+You can find all installation and configuration steps in there documentation too.
 ![Documentation](https://bash-it.readthedocs.io/en/latest/)
