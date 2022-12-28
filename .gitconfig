@@ -1,0 +1,12 @@
+[user]
+	name = [username]
+	email = [your email]
+[core]
+	editor = vim
+[alias]
+	graph = git log --oneline --graph --decorate
+	grpah = git log --oneline --graph --decorate
+[credential]
+	helper = store
+[init]
+	defaultBranch = master
