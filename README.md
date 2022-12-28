@@ -1,4 +1,4 @@
-# Bash File Settings And Configurations I Use With Linux 🐧👾👽
+## Bash File Settings And Configurations I Use With Linux 🐧👾
 
 ## ScreenShots of Bash Terminal
 
